@@ -1,0 +1,7 @@
+# It is recommended to install PyTorch from the official website (https://pytorch.org/)
+# to select the correct version for your CUDA setup if you plan to use a GPU.
+# The version below is a general-purpose choice.
+torch==2.0.1
+
+# A fundamental package for scientific computing, and a common dependency for PyTorch.
+numpy==1.26.4
