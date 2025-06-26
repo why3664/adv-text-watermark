@@ -53,7 +53,3 @@ adv-text-watermark/
 └── README.md # 项目说明
 
 
-## 许可证 (License)
-
-本项目采用 [MIT License](LICENSE) 开源许可证。
-
